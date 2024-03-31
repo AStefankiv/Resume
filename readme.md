@@ -1,0 +1,1 @@
+![Resume Image](/media/resume.jpg "Resume picture")
