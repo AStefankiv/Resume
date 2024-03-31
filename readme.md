@@ -1,1 +1,1 @@
-![Resume image](/media/resume.jpg "My resume")
+![Resume picture](/media/resume.jpg "My resume")
